@@ -1,0 +1,3 @@
+alteração na classe EventManager
+
+adicionei o método que de acordo com o tipo de evento que recebe retorna quantos eventos desse tipo existem no gestor de eventos

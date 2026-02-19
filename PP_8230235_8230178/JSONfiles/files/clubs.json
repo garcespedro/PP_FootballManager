@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Sport Lisboa e Benfica",
+      "code": "Benfica",
+      "country": "Portugal",
+      "founded": 1904,
+      "isNationalTeam": false,
+      "stadium": "Estádio da Luz",
+      "logo": "https://media.api-sports.io/football/teams/211.png"
+    },
+    {
+      "name": "Futebol Clube do Porto",
+      "code": "Porto",
+      "country": "Portugal",
+      "founded": 1893,
+      "isNationalTeam": false,
+      "stadium": "Estádio do Dragão",
+      "logo": "https://media.api-sports.io/football/teams/212.png"
+    }
+]
+   
+  
