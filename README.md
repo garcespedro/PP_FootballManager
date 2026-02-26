@@ -189,4 +189,5 @@ Full technical documentation is available in the `dist/` folder (Javadoc generat
 ## 📌 Author
 Luís Garcês
 João Lima
+---
 Developed as part of an academic group project.
